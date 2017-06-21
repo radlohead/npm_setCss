@@ -1,0 +1,19 @@
+{
+  "name": "setCss",
+  "version": "1.0.0",
+  "description": "easy declare is css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "easy-css"
+  ],
+  "author": {
+    "email": "andreasgillstrom@gmail.com",
+    "name": "minho",
+    "url": "github.com/radlohead"
+  },
+  "license": "MIT"
+}
